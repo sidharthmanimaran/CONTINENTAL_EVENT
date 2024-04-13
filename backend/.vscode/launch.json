@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendApplication<sports>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.sports.BackendApplication",
+            "projectName": "sports",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
